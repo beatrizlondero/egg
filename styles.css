@@ -62,7 +62,7 @@ p {
 
 .project img {
     width: 100%;
-    max-width: 300px;
+    max-width: 400px;
     margin-bottom: 10px;
 }
 
@@ -101,6 +101,7 @@ footer {
 }
 .imagen{
     height: 300px;
-    width: 300px;
+    width: 500px;
     margin: 30px;
+    padding: 5px;
 }
