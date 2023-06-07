@@ -99,3 +99,8 @@ footer {
     text-align: center;
     font-size: 14px;
 }
+.imagen{
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+}
